@@ -1,2 +1,2 @@
 # module2_solution
-inde.html
+index.html
